@@ -1,0 +1,25 @@
+{
+	"name": "apiary-blueprint-render",
+	"description": "Renders apiary-blueprint code to html",
+	"author": {
+		"name": "Korbinian Pauli",
+		"email": "npm@m-ux.net"
+	},
+	"version": "0.1.2",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/korpa/apiary-blueprint-render.git"
+	},
+	"dependencies": {
+		"underscore": "1.4.4",
+		"apiary-blueprint-parser": "0.4.4"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"main": "index",
+	"engines": {
+		"node": "*"
+	},
+	"readme": "readme",
+	"readmeFilename": "README.md"
+}
