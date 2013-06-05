@@ -1,7 +1,7 @@
 apiary-blueprint-render
 =======================
 
-Renders apiary-blueprint code to html
+node.js module to render apiary-blueprint code to html
 
 ## Install ##
     npm install apiary-blueprint-render
